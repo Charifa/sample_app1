@@ -11,3 +11,5 @@
  *= require_self
  *= require_tree .
  */
+<link href="/assets/application.css" media="all" rel="stylesheet"
+type="text/css" />
